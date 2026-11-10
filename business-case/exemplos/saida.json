@@ -15,6 +15,67 @@
         "beneficios_minimos_pct": 1.1709,
         "investimento_maximo_pct": 0.7606
       },
+      "sensibilidade": {
+        "variacao_beneficios_pct": [
+          -20.0,
+          -10.0,
+          0.0,
+          10.0,
+          20.0
+        ],
+        "variacao_taxa_pontos": [
+          -2.0,
+          -1.0,
+          0.0,
+          1.0,
+          2.0
+        ],
+        "taxas": [
+          0.1,
+          0.11,
+          0.12,
+          0.13,
+          0.14
+        ],
+        "vpl": [
+          [
+            -90473.33,
+            -92026.27,
+            -93534.07,
+            -94998.51,
+            -96421.25
+          ],
+          [
+            -64361.38,
+            -66367.27,
+            -68314.85,
+            -70206.4,
+            -72044.11
+          ],
+          [
+            -38249.44,
+            -40708.26,
+            -43095.62,
+            -45414.3,
+            -47666.97
+          ],
+          [
+            -12137.49,
+            -15049.26,
+            -17876.39,
+            -20622.2,
+            -23289.84
+          ],
+          [
+            13974.46,
+            10609.75,
+            7342.84,
+            4169.9,
+            1087.3
+          ]
+        ]
+      },
+      "custos_variaveis_totais": 0.0,
       "capacidade_liberada_total": 69120.0,
       "nota": "ROI, payback, VPL e TIR usam só benefícios de caixa. A capacidade liberada é informada à parte e não entra nessas contas."
     },
@@ -31,6 +92,67 @@
         "beneficios_minimos_pct": 0.8196,
         "investimento_maximo_pct": 1.361
       },
+      "sensibilidade": {
+        "variacao_beneficios_pct": [
+          -20.0,
+          -10.0,
+          0.0,
+          10.0,
+          20.0
+        ],
+        "variacao_taxa_pontos": [
+          -2.0,
+          -1.0,
+          0.0,
+          1.0,
+          2.0
+        ],
+        "taxas": [
+          0.1,
+          0.11,
+          0.12,
+          0.13,
+          0.14
+        ],
+        "vpl": [
+          [
+            -946.66,
+            -4052.54,
+            -7068.15,
+            -9997.01,
+            -12842.49
+          ],
+          [
+            36356.12,
+            32603.18,
+            28959.32,
+            25420.28,
+            21981.99
+          ],
+          [
+            73658.9,
+            69258.9,
+            64986.79,
+            60837.56,
+            56806.47
+          ],
+          [
+            110961.68,
+            105914.62,
+            101014.26,
+            96254.85,
+            91630.95
+          ],
+          [
+            148264.46,
+            142570.34,
+            137041.73,
+            131672.14,
+            126455.43
+          ]
+        ]
+      },
+      "custos_variaveis_totais": 0.0,
       "capacidade_liberada_total": 138240.0,
       "nota": "ROI, payback, VPL e TIR usam só benefícios de caixa. A capacidade liberada é informada à parte e não entra nessas contas."
     },
@@ -47,6 +169,67 @@
         "beneficios_minimos_pct": 0.683,
         "investimento_maximo_pct": 1.7613
       },
+      "sensibilidade": {
+        "variacao_beneficios_pct": [
+          -20.0,
+          -10.0,
+          0.0,
+          10.0,
+          20.0
+        ],
+        "variacao_taxa_pontos": [
+          -2.0,
+          -1.0,
+          0.0,
+          1.0,
+          2.0
+        ],
+        "taxas": [
+          0.1,
+          0.11,
+          0.12,
+          0.13,
+          0.14
+        ],
+        "vpl": [
+          [
+            58737.79,
+            54596.61,
+            50575.8,
+            46670.65,
+            42876.67
+          ],
+          [
+            103501.13,
+            98583.48,
+            93808.76,
+            89171.4,
+            84666.05
+          ],
+          [
+            148264.46,
+            142570.34,
+            137041.73,
+            131672.14,
+            126455.43
+          ],
+          [
+            193027.8,
+            186557.21,
+            180274.69,
+            174172.89,
+            168244.8
+          ],
+          [
+            237791.13,
+            230544.07,
+            223507.65,
+            216673.64,
+            210034.18
+          ]
+        ]
+      },
+      "custos_variaveis_totais": 0.0,
       "capacidade_liberada_total": 138240.0,
       "nota": "ROI, payback, VPL e TIR usam só benefícios de caixa. A capacidade liberada é informada à parte e não entra nessas contas."
     }
