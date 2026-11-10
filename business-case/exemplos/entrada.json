@@ -1,0 +1,67 @@
+{
+  "_nota": "DADOS DE EXEMPLO, fictícios. Caso: troca do sistema de atendimento.",
+  "moeda": "R$",
+  "taxa_desconto_anual": 0.12,
+  "cenarios": {
+    "conservador": {
+      "investimento_inicial": 180000,
+      "anos": [
+        {
+          "beneficios_caixa": 105000,
+          "beneficios_capacidade": 23040,
+          "custos": 48000
+        },
+        {
+          "beneficios_caixa": 105000,
+          "beneficios_capacidade": 23040,
+          "custos": 48000
+        },
+        {
+          "beneficios_caixa": 105000,
+          "beneficios_capacidade": 23040,
+          "custos": 48000
+        }
+      ]
+    },
+    "base": {
+      "investimento_inicial": 180000,
+      "anos": [
+        {
+          "beneficios_caixa": 150000,
+          "beneficios_capacidade": 46080,
+          "custos": 48000
+        },
+        {
+          "beneficios_caixa": 150000,
+          "beneficios_capacidade": 46080,
+          "custos": 48000
+        },
+        {
+          "beneficios_caixa": 150000,
+          "beneficios_capacidade": 46080,
+          "custos": 48000
+        }
+      ]
+    },
+    "otimista": {
+      "investimento_inicial": 180000,
+      "anos": [
+        {
+          "beneficios_caixa": 180000,
+          "beneficios_capacidade": 46080,
+          "custos": 48000
+        },
+        {
+          "beneficios_caixa": 180000,
+          "beneficios_capacidade": 46080,
+          "custos": 48000
+        },
+        {
+          "beneficios_caixa": 180000,
+          "beneficios_capacidade": 46080,
+          "custos": 48000
+        }
+      ]
+    }
+  }
+}

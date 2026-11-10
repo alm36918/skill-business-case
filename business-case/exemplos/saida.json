@@ -1,0 +1,54 @@
+{
+  "moeda": "R$",
+  "taxa_desconto_anual": 0.12,
+  "cenarios": {
+    "conservador": {
+      "horizonte_anos": 3,
+      "beneficios_totais": 315000.0,
+      "custos_totais": 324000.0,
+      "roi": -0.0278,
+      "payback_simples_anos": "não atinge no horizonte",
+      "payback_descontado_anos": "não atinge no horizonte",
+      "vpl": -43095.62,
+      "tir": -0.0252,
+      "ponto_de_equilibrio": {
+        "beneficios_minimos_pct": 1.1709,
+        "investimento_maximo_pct": 0.7606
+      },
+      "capacidade_liberada_total": 69120.0,
+      "nota": "ROI, payback, VPL e TIR usam só benefícios de caixa. A capacidade liberada é informada à parte e não entra nessas contas."
+    },
+    "base": {
+      "horizonte_anos": 3,
+      "beneficios_totais": 450000.0,
+      "custos_totais": 324000.0,
+      "roi": 0.3889,
+      "payback_simples_anos": 1.76,
+      "payback_descontado_anos": 2.1,
+      "vpl": 64986.79,
+      "tir": 0.3207,
+      "ponto_de_equilibrio": {
+        "beneficios_minimos_pct": 0.8196,
+        "investimento_maximo_pct": 1.361
+      },
+      "capacidade_liberada_total": 138240.0,
+      "nota": "ROI, payback, VPL e TIR usam só benefícios de caixa. A capacidade liberada é informada à parte e não entra nessas contas."
+    },
+    "otimista": {
+      "horizonte_anos": 3,
+      "beneficios_totais": 540000.0,
+      "custos_totais": 324000.0,
+      "roi": 0.6667,
+      "payback_simples_anos": 1.36,
+      "payback_descontado_anos": 1.59,
+      "vpl": 137041.73,
+      "tir": 0.5276,
+      "ponto_de_equilibrio": {
+        "beneficios_minimos_pct": 0.683,
+        "investimento_maximo_pct": 1.7613
+      },
+      "capacidade_liberada_total": 138240.0,
+      "nota": "ROI, payback, VPL e TIR usam só benefícios de caixa. A capacidade liberada é informada à parte e não entra nessas contas."
+    }
+  }
+}
